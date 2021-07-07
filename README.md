@@ -33,5 +33,5 @@ Roll the dice and see what values you are presented. Generally, you can roll the
 
 6. To restart, simply click the restart button at the bottom of the screen.
 
-### Want to create an account and save your scores to compete with the global leadertable?
+## Want to create an account and save your scores to compete with the global leadertable?
 Sign up [here](https://github.com/sergiosja/Mega-Yatzy)!
