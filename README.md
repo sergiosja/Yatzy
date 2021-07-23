@@ -1,5 +1,5 @@
 # Yatzy
-Single-player yatzy for mobile, with a submarine GUI.
+Single-player yatzy for mobile, with a light and easy GUI.
 
 Click [here](https://sergiosja.github.io/Yatzy/) to try. Good luck!
 Alternatively download the repository and run index.html. This way you can play whenever you want!
