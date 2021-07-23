@@ -108,7 +108,6 @@ function straights(arr, nr) {
     for (let i = 0; i < arr.length; i++) {
         if (!dievalues.includes(arr[i])) {
             finished[3]++;
-            
             disable(nr);
             return;
         }

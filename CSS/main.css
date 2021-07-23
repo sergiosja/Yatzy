@@ -22,17 +22,16 @@ button{
     font-size: 30px;
     font-family: 'Arial Black';
     border-radius: 5px;
+    margin: 30px 0 0;
+}
+
+button:hover{
+    background: #dcdcdc;
 }
 
 button a{
     color: #010103;
     text-decoration: none;
-}
-
-.bottom-btn button{
-    margin-top: 30px;
-    background: #e0dbcd;
-    border: 3px solid #2c2d2b;
 }
 
 
@@ -65,20 +64,23 @@ ul li{
 
     font-size: 40px;
     border: 3px solid #2c2d2b;
+    background: #ebdccb;
 
     cursor: pointer;
 }
 
 .locked{
-    background: #b1b0a5;
+    background: #928c6f;
     border: 3px solid #2c2d2b;
 }
 
 
 /* Collapsible */
 .categories{
-    background: #e0dbcd;
-    border: 3px solid #2c2d2b;
+    background: #928c6f;
+    color: #c3c48d;
+    border: 3px solid #010103;
+    text-shadow: -1px -1px 0 #010103, 1px -1px 0 #010103, -1px 1px 0 #010103, 1px 1px 0 #010103;
     
     text-align: center;    
     font-size: 30px;
@@ -90,6 +92,10 @@ ul li{
     width: 80%;
 
     align-self: center;
+}
+
+.categories:hover{
+    background: #c2bca0;
 }
 
 .content{
@@ -104,13 +110,14 @@ ul li{
     border: 3px solid #2c2d2b;
 }
 
-.inner{
+.category{
     font-size: 25px;
+    margin: 0 0 15px;
 }
 
 
 /* Modal */
-.modal {
+.modal{
     display: none;
     position: fixed;
     z-index: 1;
@@ -123,7 +130,7 @@ ul li{
     background-color: rgba(0,0,0,0.4);
 }
   
-.modal-content {
+.modal-content{
     margin: auto;
     padding: 20px;
     width: 80%;    
@@ -134,10 +141,27 @@ ul li{
     border-radius: 30px;   
 }
 
+.helper-modal-button{
+    background: #202020;
+    color: #f5f5f5;
 
-/* Helper to center elements within a div */
+    font-size: 25px;
+    margin: 0 0 15px;
+}
+
+#modal-helper-text{
+    padding: 20px 50px;
+    font-size: 30px;
+}
+
+
+/* Helper classes */
 .center{
     text-align: center;
+}
+
+.widen{
+    width: 40%;
 }
 
 
@@ -147,6 +171,10 @@ ul li{
 @media only screen and (max-device-width: 450px) {
     button{
         font-size: 60px;
+    }
+
+    .widen{
+        width: 80%;
     }
 
     #diceroller{
@@ -167,7 +195,7 @@ ul li{
         width: 95%;
     }
 
-    .inner{
+    .category, .helper-modal-button{
         font-size: 40px;
         padding: 5px;
         margin: 10px 10px;
@@ -177,7 +205,7 @@ ul li{
         padding-top: 400px;
     }
 
-    .modal-content{
+    .modal-content, #modal-helper-text{
         font-size: 50px;
     }
 }
