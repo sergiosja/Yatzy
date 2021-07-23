@@ -27,7 +27,7 @@ Roll the dice and see what values you are presented. Generally, you can roll the
 
 3. If you are out of rolls, and don't meet any of the scores' criterias, you will have to sacrifice a score. Click on the score you want to sacrifice, and you will be awarded 0 points for that particular score. After you click on a score, you cannot change it afterwards.
 
-4. Once you finish, click the SUM button. This will display your score, and how long you have played. After you click the button you will not be able to play on, so make sure you have completed the game first!
+4. Once you finish, click the END GAME-button. This will display your score, and how long you have played (the "modal"). After you click the button you will not be able to play on, so make sure you have completed the game first! The modal will also automatically pop up if you finish all the scores.
 
 5. When you finish a category, the colours will change and it will become unclickable. This way you will easier manage to keep track on what you have completed and what you have not.
 
