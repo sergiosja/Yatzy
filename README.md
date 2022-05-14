@@ -5,6 +5,7 @@ Click [here](https://sergiosja.github.io/Yatzy/) to try. Good luck!
 Alternatively download the repository and run index.html. This way you can play whenever you want!
 If you have never played Yatzy before, you might want to read the rules below.
 
+## Rules
 Roll the dice and see what values you are presented. Generally, you can roll the dice a maximum of three times. Here are your options:
 
 ``Ones to Sixes`` If your die show four ones (e.g. **1 1 1 1** 2 4) and you click ``Ones``, the value 4 will be added to your score. Think of it as ``Number`` times quantity of said number among your current die. If you manage a score of >=84 from the six options (4 x number for each number), you will be awarded a 50 bonus points!
@@ -33,5 +34,5 @@ Roll the dice and see what values you are presented. Generally, you can roll the
 
 6. To restart, simply click the restart button at the bottom of the screen.
 
-## Want to create an account and save your scores to compete with the global leadertable?
-Sign up [here](https://github.com/sergiosja/Mega-Yatzy)!
+## Want to create an account and save your scores to compete with a global leadertable?
+Check [this](https://github.com/sergiosja/Mega-Yatzy) out!
