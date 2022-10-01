@@ -2,7 +2,7 @@
 Single-player yatzy, with a light and easy GUI.
 
 Working demo [here](https://sergiosja.github.io/Yatzy/). Good luck!
-Alternatively download the repository and run index.html. This way you can play whenever you want!
+Alternatively, clone the repository and run index.html. This way you can play whenever you want!
 If you have never played Yatzy before, you might want to read the rules below.
 
 ## Rules
