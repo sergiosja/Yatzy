@@ -8,34 +8,22 @@ If you have never played Yatzy before, you might want to read the rules below.
 ## Rules
 Roll the dice and see what values you are presented. Generally, you can roll the die a maximum of three times. Here are your options:
 
-```
-Ones to Sixes
-```
+### Ones to Sixes
 If your die show four ones (e.g. **1 1 1 1** 2 4) and you click ``Ones``, the value 4 will be added to your score. Think of it as ``Number`` times quantity of said number among your current die. If you manage a score of >=84 from the six options (4 x number for each number), you will be awarded 50 bonus points!
 
-```
-Pairs
-```
+### Pairs
 If your die show a pair of ones (e.g **1 1** 2 3 4 5) and you click ``One pair``, the value 2 will be added to your score. ``Two pairs`` and ``Three pairs`` follow the same logic. If you have two pairs and you click ``One pair`` and there are more pairs present than you need, you will always be awarded the highest one.
 
-```
-Kinds
-```
+### Kinds
 If your die show three of a kind (e.g. **1 1 1** 2 3 4) and you click ``Three of a Kind``, the value 3 will be added to your score. ``Four of a Kind`` and ``Five of a Kind`` follow the same logic. If you have, say *1 1 1* **2 2 2**, and you click ``Three of a Kind``, you will be awarded 6 rather than 3.
 
-```
-Straights
-```
+### Straights
 Here you have three different options. ``Small straight`` gives you 15 points if you have 1, 2, 3, 4 and 5 among your die values, ``Big straight`` gives you 20 points if you have 2, 3, 4, 5 and 6 among your die values, while ``Full straight`` gives you 21 points if your die values are 1, 2, 3, 4, 5 and 6. Just to be clear, the order does not matter. 1 5 4 3 6 2 is a full-fledged ``Full straight``. The **only** category where order matters is the ``Straight Flush``, which we will look at later.
 
-```
-Settlements
-```
+### Settlements
 Here you also have three different options. ``Cottage`` is a combination of a ``One pair`` and a ``Three of a Kind`` (e.g. **1 1 1 2 2** 3), like a [full house in Poker](https://en.wikipedia.org/wiki/List_of_poker_hands#Full_house). ``House`` is two ``Three of a Kind`` (e.g. **1 1 1 2 2 2**), and ``Tower`` is a ``One pair`` and a ``Four of a Kind`` (e.g. **1 1 1 1 2 2**). The values must, obviously, be distinct. You will not be awarded a cottage if your die values are 1 1 1 1 1 2, even though it technically ticks the boxes.
 
-```
-Chance, Yatzy & Straight Flush
-```
+### Chance, Yatzy & Straight Flush
 The big guns. ``Chance`` is the sum of all the dice values you currently have. This is a decent alternative when you cannot match the criteria of any other category. ``Yatzy`` is the big bonus, the name of the game, the king of the hill. If you manage six duplicates (e.g. 1 1 1 1 1 1) you will be awarded the sum of these, in addition to 100 points. Usually, the player who manages this wins the game. But! I have added my own, extra category. This is the ``Straight Flush`` I briefly mentioned earlier. As I said, order does not generally matter with these values. In fact, this is the only case where it does. Staright Flush is an ordered ``Big straight``. In person, this would not be possible, as the die fly everywhere as you throw them. Here on the other hand, it is more than possible, and I have made it the biggest prize, 150 points. In my experience, it is either super easy, or nearly impossible. 
 
 
