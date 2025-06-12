@@ -6,7 +6,7 @@ Alternatively, clone the repository and run index.html. This way you can play wh
 If you have never played Yatzy before, you might want to read the rules below.
 
 ## Rules
-Roll the die and see what values you are presented. Generally, you can roll the die a maximum of three times. Here are your options:
+Roll the dice and see what values you are presented. Generally, you can roll the die a maximum of three times. Here are your options:
 
 ```
 Ones to Sixes
